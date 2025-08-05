@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Premavathy Vijayan</h1>
+<h1 align="center">Hi 👋, I'm Premavathy Vijayan👀</h1>
 <h3 align="center">Crafting beautiful user experiences with code. Frontend developer in the making 💻🎨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premavathyv&label=Profile%20views&color=0e75b6&style=flat" alt="premavathyv" /> </p>
